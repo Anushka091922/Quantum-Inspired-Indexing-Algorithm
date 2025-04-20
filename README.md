@@ -28,5 +28,6 @@ Semantic Resonance, Knowledge Graph, Quantum-Inspired
 Search
 
 
-https://colab.research.google.com/drive/1jr6nVsN_aUyimT5Ba0-2NZ5H5Mo54a56?usp=sharing
+[https://colab.research.google.com/drive/1jr6nVsN_aUyimT5Ba0-2NZ5H5Mo54a56?usp=sharing](https://colab.research.google.com/drive/1jr6nVsN_aUyimT5Ba0-2NZ5H5Mo54a56?usp=sharing)
+
 
