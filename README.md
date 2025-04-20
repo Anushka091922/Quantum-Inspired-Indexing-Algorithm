@@ -1,4 +1,4 @@
-# Abstract— 
+# Abstract
 This research introduces a novel approach
 to semantic indexing and retrieval leveraging quantum
 amplitude encoding. The methodology begins with query
